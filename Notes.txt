@@ -1,0 +1,6 @@
+1. set up the github {Repository}
+  a)new environment
+  b)mini project structure
+  c)setup.py
+  d)requirments.txt
+

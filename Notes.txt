@@ -3,5 +3,10 @@
   b)mini project structure
   c)setup.py
   d)requirments.txt
-  
+Add token  For pushing into git Repository.After https:// in ssh
+
+create .gitignore file and select python in github (youre working as collabarotors)
+ now pulll request 
+git remote -v
+git pull remote main]
 

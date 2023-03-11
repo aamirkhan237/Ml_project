@@ -8,5 +8,8 @@ Add token  For pushing into git Repository.After https:// in ssh
 create .gitignore file and select python in github (youre working as collabarotors)
  now pulll request 
 git remote -v
-git pull remote main]
+git pull remote main] git push https://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@github.com/aamirkhan237/ML_project.git
 
+
+
+--> setup.py we will creating our application as package.
